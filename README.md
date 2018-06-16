@@ -1,2 +1,2 @@
 # netcorelibraries
-Collecting the.Net core public class library
+Collecting the.Net core public class libraries
