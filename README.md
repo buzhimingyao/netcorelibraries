@@ -9,4 +9,5 @@ Collecting the.Net core public class libraries
 ## RSA ： [RSAHelper](https://github.com/stulzq/DotnetCore.RSA){:target="_blank"}
 ## Linq.Dynamic ： [Linq.Dynamic](https://github.com/StefH/System.Linq.Dynamic.Core){:target="_blank"}
 
+## Linq.Dynamic ： <a href="https://github.com/StefH/System.Linq.Dynamic.Core">Linq.Dynamic</a>
 
